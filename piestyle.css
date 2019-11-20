@@ -1,0 +1,48 @@
+#Red{
+   position: absolute;
+  left: 0px;
+  top: 0px;
+  border-radius:100% 0% 0% 0%;
+  background:red;
+height: 100px;
+width: 100px;
+}
+
+#Yellow{
+  position: absolute;
+  left: 100px;
+  top: 0px;
+   border-radius:0% 100% 0% 0%;
+ background-color: yellow;
+height: 100px;
+width: 100px;
+ 
+}
+
+#Green{
+   position: absolute;
+  left: 0px;
+  top: 100px;
+  border-radius:0% 0% 0% 100%;
+  background:green;
+height: 100px;
+width: 100px;
+}
+
+
+#Blue{
+   position: absolute;
+  left: 100px;
+  top: 100px;
+  border-radius:0% 0% 100% 0%;
+  background:Blue;
+height: 100px;
+width: 100px;
+}
+.font{
+  position: relative;
+  left: 30%;
+  top: 40%;
+  color:black
+  
+}
