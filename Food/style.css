@@ -4,7 +4,6 @@
 	background-color: green;
 	 font-family: Courier;
 	  text-align: center;
-	  border: 2px solid black;
 	  
 
 }
@@ -14,9 +13,6 @@
 	background-color:#CC0033;
 	font-family: Candara ;
 	 text-align: center;
-	padding-bottom: 10px;
-	 border: 3px solid black;
-
 
 
 
@@ -28,8 +24,6 @@
 	color: white;
 	font-family: Candara;
 	 text-align: center;
-	  padding-top:10px;
-	  padding-bottom: 10px;
 }
 
 .Bread{
@@ -37,8 +31,6 @@
 	color:	#006600;
 	font-family: impact;
 	 text-align: center;
-	 border: 3px solid black;
-	 padding-bottom: 10px;
 
 }
 
@@ -47,8 +39,6 @@
 	background-color:#990000;
 	color: white; 
 	 text-align: center;
-	   border: 2px solid black;
-	   padding-bottom: 10px;
 }
 
 .Keller{
@@ -56,15 +46,11 @@
 	color: #660000;
 	font-family: Comic Sans MS;
 	 text-align: center;
-	 padding-top:5px;
-	 padding-bottom: 10px;
-	  border: 2px solid black;
 }
 
 .Dish{
 background-color: #CCFF00;
 font-family: Garamond;
  text-align: center;
- border: 4px dashed black;
 
 }
