@@ -1,0 +1,63 @@
+.header{
+	background-color: #A9A9A9;
+	border:5px solid black;
+	text-align: center;
+	font-family: Courier New;
+	margin-bottom: 15px;
+
+}
+.canada{
+
+	background-color: #FF0000;
+	border: 5px dashed #4169E1;
+	text-align: center;
+	padding-bottom: 15px;
+	font-family: Georgia;	
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+.india{
+	background-color: orange;
+	color:green;
+	text-align: center;
+	border:5px solid green;
+	padding-bottom: 15px;
+	font-family: Palatino;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.peru{
+
+	background-color:#228B22;
+	text-align: center;
+	color: #ADFF2F
+	padding-bottom: 15px;
+	border:5px dashed #DC143C;
+	font-family: Bookman;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.japan{
+	background-color: #DDA0DD;
+	color:	#98FB98;
+	text-align: center;
+	border:5px solid #000080;
+	padding-bottom: 15px;
+	font-family: Candara;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
+.spain{
+	background-color: #FF6347;
+	color:black;
+	text-align: center;
+	border:5px dashed #000080;
+	padding-bottom: 15px;
+	font-family: Comic Sans MS;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
